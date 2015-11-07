@@ -1,9 +1,12 @@
-# ng-todolist
-Simple To-Do list:
+# ng-todo
 
-This is my take on a simple to do list built using HTML, CSS3 and Angular.js.
+This is a to-do list app developed using Angular.js. This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.11.1.
 
-Technologies used include:
-Yo
-Bower
-Grunt
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.

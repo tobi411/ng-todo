@@ -67,10 +67,14 @@ body {
 .marketing {
   margin: 40px 0;
 }
+
 .marketing p + h4 {
   margin-top: 28px;
 }
 
+#new-entry{
+  padding: 3em 5em;
+}
 .list-content{
   background-image: url("../images/paper.png");
   height: 55em;
